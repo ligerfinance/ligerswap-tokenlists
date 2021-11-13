@@ -1,2 +1,2 @@
 # ligerswap-tokenlists
-:tiger: Liger Farming Protocol :tiger:
+:tiger: LigerSwap Token Lists :tiger:
